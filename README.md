@@ -1,5 +1,7 @@
 # Binary-Search-Tree-Implementation-v1
 
+Written in C language.
+
 Functions include:
   create, 
   setLeft (sets left node), 
